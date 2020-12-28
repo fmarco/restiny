@@ -17,4 +17,6 @@ How to run:
 
 Tests
 
-`pytest -vv`
+1) Install pytest and pytest-mock
+
+2) `pytest -vv`
