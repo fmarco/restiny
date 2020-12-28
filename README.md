@@ -1,4 +1,4 @@
-Simple experiment with Werkzeug. NOT READY FOR PRODUCTION USE!
+Simple experiment with Werkzeug. NOT READY FOR PRODUCTION USE (currently WIP and for study/play purposes)!
 
 What is this? A mini pure rest framework.
 
